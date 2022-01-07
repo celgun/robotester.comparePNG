@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <StartArguments>"D:\test_image.png" "D:\ref_image.png" "D:\cce_result.png"</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <StartArguments>D:\TV_AutoTest\ref.png D:\TV_AutoTest\test.png D:\TV_AutoTest\test_result.png</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <StartArguments>D:\temp\ref.png D:\temp\test.png D:\temp\result.png</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <StartArguments>D:\TV_AutoTest\ref.png D:\TV_AutoTest\test.png D:\TV_AutoTest\test_result.png</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
+    <StartArguments>D:\TV_AutoTest\ref.png D:\TV_AutoTest\test.png D:\TV_AutoTest\test_result.png</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x64' ">
+    <StartArguments>D:\TV_AutoTest\ref.png D:\TV_AutoTest\test.png D:\TV_AutoTest\test_result.png</StartArguments>
+  </PropertyGroup>
+</Project>

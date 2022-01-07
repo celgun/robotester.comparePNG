@@ -1,0 +1,5 @@
+D:\workspace_csharp\RoboTester\comparePNG\obj\Debug\RoboTester.comparePNG.csproj.CoreCompileInputs.cache
+D:\workspace_csharp\RoboTester\comparePNG\obj\Debug\comparePNG.exe
+D:\workspace_csharp\RoboTester\comparePNG\obj\Debug\comparePNG.pdb
+D:\workspace_csharp\RoboTester\comparePNG\obj\Debug\RoboTester.comparePNG.csproj.CopyComplete
+D:\workspace_csharp\RoboTester\comparePNG\obj\Debug\TestApiCore.dll
