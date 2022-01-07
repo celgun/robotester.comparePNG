@@ -4,8 +4,6 @@ robotester.comparePNG is a mini program to compare 2 images
 
 Main features:
 * comparePNG takes 3 parameters
-* coded in C#
-* Later on new commands will be added
 * INPUT - test image path (PNG file)
 * INPUT - reference image path (PNG file)
 * INPUT - result image path (PNG file)
